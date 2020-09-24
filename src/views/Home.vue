@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    111133
+    111133你真的是有毒
     <cube-button @click="showDialog">show dialog</cube-button>
     <p>hufozhou</p>
     <img alt="Vue logo" src="../assets/logo.png" />
