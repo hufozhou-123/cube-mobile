@@ -2,6 +2,7 @@
   <div class="home">
     111133
     <cube-button @click="showDialog">show dialog</cube-button>
+    <p>hufozhou</p>
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
