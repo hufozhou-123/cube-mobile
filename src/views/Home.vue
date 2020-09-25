@@ -1,6 +1,10 @@
 <template>
   <div class="home">
+<<<<<<< HEAD
     1111222333
+=======
+    1111222333444555
+>>>>>>> ec99c88f2ecf3b3909e4bc89add5ab7b087d0feb
     <cube-button @click="showDialog">show dialog</cube-button>
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
