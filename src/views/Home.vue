@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    1111222333444
+    1111222333444555
     <cube-button @click="showDialog">show dialog</cube-button>
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
